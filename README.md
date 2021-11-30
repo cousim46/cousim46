@@ -1,6 +1,6 @@
 ### 안녕하세요! 👋
 
-- 블로그 : <a href="https://hoestory.tistory.com/">Hoestory</a>
+- 블로그 : <a href="https://hoestory.tistory.com/" target="_blank">Hoestory</a>
 - email : wjdghldns24@naver.com
 
 ### 학력
