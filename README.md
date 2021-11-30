@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
 - 블로그 : <a href="https://hoestory.tistory.com/">Hoestory</a>
 - email : wjdghldns24@naver.com
