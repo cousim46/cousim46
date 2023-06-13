@@ -3,9 +3,8 @@
 - 블로그 : <a href="https://hoestory.tistory.com/" target="_blank">Hoestory</a>
 - email : wjdghldns24@naver.com
 
-### 학력
-
-- 2017 ~ 2022 부천대학교 컴퓨터 소프트웨어과(휴학)
+### 활동
+- (2022.09 ~ ) 뱅크몰 백엔드 개발자
 
 ### 자격증
 
